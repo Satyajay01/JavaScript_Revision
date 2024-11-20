@@ -36,15 +36,3 @@ const min = 10; // fix minimum value
 const max = 100; // fix maximum value
 console.log(Math.floor(Math.random()*(max - min))+10);
 
-
-
-
-
-
-
-
-
-
-
-
-
